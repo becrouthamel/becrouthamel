@@ -1,19 +1,36 @@
+<h1 align="center">Hi! :) I'm Brynn</h1>
 
-<!--
-**becrouthamel/becrouthamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <h3>★ About Me</h3>
+  <div>
+    
+  </div>
+</div>
 
-Here are some ideas to get you started:
+<div>
+  <h3>Top Projects</h3>
+  <div>
+    
+  </div>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <h3>Connect</h3>
+  <div>
+    
+  </div>
+</div>
 
-<h1>Hi! I'm Brynn : )</h1>
+<div>
+  <h3>Languages / Tools</h3>
+  <div>
+    
+  </div>
+</div>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=becrouthamel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
+<div>
+  <h3>Contributions</h3>
+  <div>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=becrouthamel&show_icons=true&locale=en" alt="becrouthamel" /></p>
+  </div>
+</div>
